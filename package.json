@@ -1,0 +1,26 @@
+{
+"name": "system-requirementsdayifan88caichul",
+"version": "1.0.0",
+"description": "Understanding the project's system requirements can help you confirm whether your environment meets the necessary conditions for operation.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mazertameki/System-Requirements.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mazertameki",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
